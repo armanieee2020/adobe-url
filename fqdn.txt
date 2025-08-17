@@ -8,3 +8,16 @@ adobegenuine.com
 *.adobegenuine.com
 adobeexchange.com
 *.adobeexchange.com
+*.adobeservices.com
+adobeservices.com
+*.adobemarketingcloud.com
+adobemarketingcloud.com
+*.assets.adobedtm.com
+assets.adobedtm.com
+*.adobesc.com
+adobesc.com
+*.adobecc.com
+*.adobelogin.com
+adobelogin.com
+*.adobe.io
+adobe.io
