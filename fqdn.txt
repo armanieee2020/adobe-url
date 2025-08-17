@@ -1,2 +1,10 @@
 adobe.com
 *.adobe.com
+adobe-stg.com
+*.adobe-stg.com
+adobegenuine.net
+*.adobegenuine.net
+adobegenuine.com
+*.adobegenuine.com
+adobeexchange.com
+*.adobeexchange.com
