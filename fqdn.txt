@@ -1,1 +1,2 @@
 adobe.com
+*.adobe.com
